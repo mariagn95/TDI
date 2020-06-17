@@ -1,0 +1,2 @@
+# Práctica 5
+ SEGMENTACIÓN DE IMAGEN (II)

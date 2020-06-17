@@ -1,0 +1,2 @@
+# Práctica 4
+ SEGMENTACIÓN DE IMAGEN (I)
